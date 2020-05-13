@@ -2,3 +2,5 @@ asdsadasdasdsadawewr
   wrote a readme wrong file
   666
   7889898989
+  Git has a mutable index called stage.
+Git tracks changes.
